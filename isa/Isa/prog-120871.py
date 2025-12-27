@@ -1,3 +1,8 @@
+'''
+- 플랫폼: 프로그래머스
+- URL: https://school.programmers.co.kr/learn/courses/30/lessons/120871
+- 유형: 구현
+'''
 def solution(n):
     answer = 0
     
