@@ -1,8 +1,8 @@
 <!--
 PR 제목 형식
 
-[Bob] 2026-01-201 Assignment
-[Isa] 2026-01-201 Assignment
+[Bob] 2026-01-01 Assignment
+[Isa] 2026-01-01 Assignment
 -->
 
 # 📅: 2025-12-27
