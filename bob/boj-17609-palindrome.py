@@ -1,7 +1,7 @@
 '''
 - 플랫폼: 백준
 - URL: https://www.acmicpc.net/problem/17609
-- 유형: 연결리스트
+- 유형: 구현, 투포인터
 '''
 def isPalindrome(word, leftIndex, rightIndex):
     while leftIndex < rightIndex:

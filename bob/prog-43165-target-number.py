@@ -1,7 +1,7 @@
 '''
 - 플랫폼: 프로그래머스
 - URL: https://school.programmers.co.kr/learn/courses/30/lessons/43165?language=python3
-- 유형: 구현
+- 유형: 탐색
 '''
 def dfs(numbers, target, acc, nextIdx):
     if nextIdx == len(numbers):
