@@ -1,3 +1,8 @@
+'''
+- 플랫폼: 프로그래머스
+- URL: https://www.acmicpc.net/problem/23971
+- 유형: 구현, 수학
+'''
 def solution(height, width, limitN, limitM):
   # print(f'height: {height}, width: {width}, limitN: {limitN}, limitM: {limitM}')
 
